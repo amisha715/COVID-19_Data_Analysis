@@ -57,7 +57,7 @@ This project performs Exploratory Data Analysis (EDA) on COVID-19 data to unders
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/amisha715/COVID19_Data_Analysis.git
-cd COVID19_Data_Analysis
+git clone https://github.com/amisha715/COVID-19_Data_Analysis.git
+cd COVID-19_Data_Analysis
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
